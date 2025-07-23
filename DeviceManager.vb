@@ -63,7 +63,6 @@ Public Class DeviceManager
 
                 ' Farklı servisleri sırayla deneyin
                 Dim services() As String = {
-                "https://api.ipify.org",
                 "https://ipinfo.io/ip",
                 "https://icanhazip.com",
                 "https://ident.me"
@@ -83,10 +82,10 @@ Public Class DeviceManager
                     End Try
                 Next
 
-                Return "IP alınamadı"
+                Return "Unknown"
             End Using
         Catch ex As Exception
-            Return $"Hata: {ex.Message}"
+            Return $"Error: {ex.Message}"
         End Try
     End Function
 
