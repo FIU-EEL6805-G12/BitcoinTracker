@@ -1,10 +1,14 @@
-﻿## Disclaimer
+﻿## ⚠️ DISCLAIMER
 
-This project was developed **strictly for educational purposes** and cybersecurity research.  
-It is intended to help students and professionals understand how Remote Access Tools (RATs) and keyloggers function in controlled environments.
+> **THIS TOOL WAS CREATED FOR EDUCATIONAL PURPOSES ONLY.**
 
-We do **not** condone or support the use of this tool for any illegal, malicious, or unethical activities.
+We are **NOT** responsible for any harm caused by the misuse of this software.  
+This includes — but is not limited to — unauthorized access, data theft, or system damage.
 
-By using this software, **you agree** that the authors and contributors are **not responsible** for any damage or legal consequences that may result from its use.
+> ❗️ **YOU ARE FULLY RESPONSIBLE FOR HOW YOU USE THIS TOOL.**
 
-Always use responsibly and **only in environments where you have explicit permission** to do so.
+By using this project, **you agree** to take **full legal responsibility** and to use it **only in environments where you have explicit permission.**
+
+---
+
+### 🔒 Use Ethically. Use Legally.
